@@ -1,0 +1,111 @@
+.Welcome {
+  width: 100%;
+  height: 100px;
+  background-color: #162032;
+  float: left;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  height: fit-content;
+  margin-top: 3%;
+  
+}
+
+.intro {
+  width: 120vh;
+  margin-left: 25%;
+  margin-bottom: 0%;
+}
+
+.big1 {
+  color: white;
+  font-weight: bold;
+  font-size: 6vw;
+  margin-bottom: -4%;
+  font-family: "Poppins";
+}
+.big2 {
+  color: white;
+  font-weight: bold;
+  font-size: 4.5vw;
+  font-family: "Poppins";
+}
+
+.hello {
+  color: white;
+  font-family: "Poppins";
+  font-weight: bold;
+  font-size: 1vw;
+  margin-top: 4%;
+  margin-bottom: -4%;
+}
+
+.intro-text {
+  width: 47%;
+  color: white;
+  font-family: "Poppins";
+  font-size: 1.5vw;
+}
+
+.LinkedIn {
+  padding: 0.5vh;
+  margin-bottom: 0.5vh;
+  float: left;
+  color: #09d8f3;
+  background-color: #2b2d2e;
+  border-color: #09d8f3;
+  font-size: 1.5vh;
+  transition: 0.5s;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.LinkedIn:hover{
+  color: black;
+  background-color: #09d8f3;
+  box-shadow: 0px 0px 10px 2px #a0e1d9;
+  
+}
+
+.linkin-logo{
+  height: 1.5vh;
+  margin-right: 10px;
+  margin-left: 2px;
+}
+
+
+.Resume {
+  padding: 0.5vh;
+  margin-bottom: 0.5%;
+  margin-left: 25px;
+  float: left;
+  color: #09d8f3;
+  background-color: #2b2d2e;
+  border-color: #09d8f3;
+  font-size: 1.5vh;
+  transition: 0.5s;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Resume:hover{
+  color: black;
+  background-color: #09d8f3;
+  box-shadow: 0px 0px 10px 2px #a0e1d9;
+  
+}
+
+
+
+.about-waves {
+  aspect-ratio: 960/260;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("./../../svg_files/light-blue-waves.svg");
+}

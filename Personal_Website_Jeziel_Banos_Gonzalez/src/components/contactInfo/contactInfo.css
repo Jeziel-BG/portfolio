@@ -1,0 +1,105 @@
+.contact-background {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.title-lighter-blue{
+  font-size: 3vw;
+  margin-right: 1%;
+  color: rgb(86, 227, 227);
+}
+.contact-form-container {
+  height: fit-content;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: aqua;
+  width: fit-content;
+  border-radius: 40px;
+  flex-direction: column;
+  background: linear-gradient(rgb(139, 191, 219), rgb(41, 71, 90));
+  
+}
+
+.contact-form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-title {
+  background: -webkit-linear-gradient(rgb(11, 76, 96), rgb(102, 128, 144));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2.5vw;
+}
+
+.contact-info {
+  background: -webkit-linear-gradient(rgb(26, 74, 89), rgb(19, 53, 75));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 45%;
+  font-size: 1.25vw;
+}
+
+.contact-input {
+  width: 30vw;
+  height: 50px;
+  border: none;
+  outline: none;
+  padding-left: 25px;
+  font-weight: 500;
+  color: #667;
+  border-radius: 50px;
+  font-size: .5vw;
+}
+
+.contact-input:focus {
+  border: 2px solid rgb(102, 237, 232);
+}
+
+.contact-input::placeholder {
+  color: rgb(62, 69, 69);
+}
+.message-input {
+  height: 20vh;
+  width: 30vw;
+  padding-top: 15px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  color: #667;
+  padding-left: 25px;
+  max-width: 100%;
+  font-size: .5vw;
+}
+
+.message-input:focus {
+  border: 2px solid rgb(102, 237, 232);
+}
+
+.message-input::placeholder {
+  color: rgb(62, 69, 69);
+}
+
+.submit-button {
+  display: flex;
+  font-size: .75vw;
+  color: white;
+  border: none;
+  gap: 10px;
+  border-radius: 50px;
+  background: linear-gradient(270deg, rgb(25, 172, 216), rgb(8, 203, 229));
+  cursor: pointer;
+  height: 3vh;
+  width: 5vw;
+  margin-bottom: 2%;
+  justify-content: center;
+  align-items: center;
+}
