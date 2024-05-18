@@ -27,9 +27,9 @@ export function CreateAboutMe() {
               <img className="logo" src="/images/java-logo.png"></img>
               <img className="logo" src="/images/HTML-logo.png"></img>
               <img className="logo" src="/images/CSS-logo.png"></img> 
-              <img className="logo" src="/images/javascript-logo.png"></img>
+              <img className="logo" src="/images/Vite-logo.png"></img>
               <img className="logo" src="/images/react-logo.png"></img>
-              <img className="logo" src="/images/nodejs-logo.png"></img>
+              <img className="logo" src="/images/SQL-logo.png"></img>
               <img className="logo" src="/images/C-Logo.png"></img>
             </div>
           </div>

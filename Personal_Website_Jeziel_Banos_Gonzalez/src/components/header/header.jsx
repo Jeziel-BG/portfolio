@@ -20,7 +20,7 @@ export function CreateHeader() {
           <img src='/images/LinkedIn_logo_initials.png' className="linkin-logo"></img>
           LinkedIn</button>
         
-        <button className="Resume" onClick={() => window.open('/documents/Resume.pdf')}>
+        <button className="Resume" onClick={() => window.open('/documents/Resume-Jeziel_Banos_Gonzalez.pdf')}>
           View Resume
         </button>
       </div>
