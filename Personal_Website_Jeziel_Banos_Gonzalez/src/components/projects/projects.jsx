@@ -18,7 +18,7 @@ export function CreateProjects() {
           with different training approaches that can accurately predict if a
           given twitter post is considered sexist. (Group Project)
         </p>
-        <button className="project-button" onClick={() => window.open('/documents/request.pdf')}>View</button>
+        <button className="project-button" onClick={() => window.open('https://github.com/Jeziel-BG/Sentiment_Analysis')}>View GitHub</button>
       </div>
 
       <div className="project-folder">
@@ -44,7 +44,7 @@ export function CreateProjects() {
         A portfolio website made using React that introduces who I am and the 
         projects that I've worked on.
       </p>
-      <button className="project-button" onClick={() => window.open('https://jeziel-banos-gonzalez.netlify.app/', "_self")}>View</button>
+      <button className="project-button" onClick={() => window.open('https://github.com/Jeziel-BG/portfolio', "_blank")}>View GitHub</button>
       </div>
 
       <div className="project-folder"> 
@@ -57,7 +57,7 @@ export function CreateProjects() {
         for a restaurant arcade buisness allowing front desk
         workers to update and query the database. 
       </p>
-      <button className="project-button" onClick={() => window.open('https://jeziel-banos-gonzalez.netlify.app/', "_self")}>View</button>
+      <button className="project-button" onClick={() => window.open('https://github.com/Jeziel-BG/Mock-Pizzeria-DBMS', "_blank")}>View GitHub</button>
       </div>
 
       <div className="education-waves"></div>

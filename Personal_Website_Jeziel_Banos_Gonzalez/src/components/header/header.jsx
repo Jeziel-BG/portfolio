@@ -9,7 +9,7 @@ export function CreateHeader() {
       <div className="intro">
         <h3 className="hello">Hi, my name is</h3>
         <h1 className="big1">Jeziel Banos Gonzalez</h1>
-        <h1 className="big2">Full-Stack Developer</h1>
+        <h1 className="big2">Aspiring Full-Stack Developer</h1>
         <p className="intro-text">
           I’m an Undergraduate student at the University of Arizona working towards
           earning a Bachelor's of Science in Computer Science. My main areas of interest

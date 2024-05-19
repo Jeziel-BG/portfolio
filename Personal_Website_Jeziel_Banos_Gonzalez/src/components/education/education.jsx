@@ -19,7 +19,7 @@ export function CreateEducation() {
           </h3>
           <h4 className="institution-name">University of Arizona</h4>
           <h4 className="grad-date">Expected Graduation Date: May 2025</h4>
-          <h4 className="GPA">GPA: 3.86/4.00</h4>
+          <h4 className="GPA">GPA: 3.87/4.00</h4>
           <ul className="minor-container">
             <li className="minor">
               Minor in Information Science Technology & Arts (ISTA)

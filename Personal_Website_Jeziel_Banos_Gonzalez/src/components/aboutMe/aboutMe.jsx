@@ -16,8 +16,8 @@ export function CreateAboutMe() {
             <p className="about-me-text">
               Hello! My name is Jeziel Banos Gonzalez, and I am an Undergraduate
               student studying computer science at the University of Arizona.
-              During my free time, I primarily work on Machine Learning and Web
-              Development projects. My projects range from building small web
+              During my free time, I primarily work on Web Development and 
+              Machine Learning projects. My projects range from building small web
               apps to sentiment analysis models using the sklearn library. Below
               are the technologies I use the most.
             </p>
